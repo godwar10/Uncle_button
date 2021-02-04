@@ -1,0 +1,22 @@
+{
+  "name": "Uncle_button",
+  "version": "0.1.0",
+  "summary": "A short description of Uncle_button.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18906929301@sina.cn/Uncle_button",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18906929301@sina.cn": "352829617@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/18906929301@sina.cn/Uncle_button.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Uncle_button/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Uncle_button (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Uncle_button (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  Uncle_button:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Uncle_button: 6dda981951e6ae62c8471a85382a888204a3a536
+
+PODFILE CHECKSUM: 19c5628b9891584f66d15139e8bfeceb6708b737
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Uncle_button {
+  umbrella header "Uncle_button-umbrella.h"
+
+  export *
+  module * { export * }
+}

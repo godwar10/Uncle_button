@@ -37,10 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0FA1DB81DC1256A01AA6E632 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		0FA1DB81DC1256A01AA6E632 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		32A14A229E79EC1F89247B5E /* Pods_Uncle_button_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Uncle_button_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D596C4F9FE01BAA5DF7C163 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		551469BE29748550B02270F9 /* Uncle_button.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = Uncle_button.podspec; path = ../Uncle_button.podspec; sourceTree = "<group>"; };
+		4D596C4F9FE01BAA5DF7C163 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		551469BE29748550B02270F9 /* Uncle_button.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Uncle_button.podspec; path = ../Uncle_button.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003E0A9B1774C710154AAA0 /* Pods_Uncle_button_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Uncle_button_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* Uncle_button_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Uncle_button_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -103,7 +103,6 @@
 				B6A5A71AE0ED4F8B2CBDBB83 /* Pods-Uncle_button_Tests.debug.xcconfig */,
 				8A9A1848F30C1D013504FCD5 /* Pods-Uncle_button_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
